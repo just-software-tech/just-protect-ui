@@ -736,11 +736,6 @@ const setUpColumn = (items,name) => {
 };
 
 let rootElement = {};
-// const defaultHeaders  = {
-//     "clientId":"111",
-//     "clientKey":"V5B940Klo47cUmaExRUiVBxQIlvhUvqkBDl5rO5NvYjhUq3xDgqX9EO4kN+g7/RnVOES0QMXl14VOdW/KrC/KMzvxdGLysihI131+00pFwR13HUYicZyD5OhB5vfPu999gKmi2m17KrDTtBQfxwG5L0KJOBQHb8W9KegR3TS0GGy991HD0WcF08ADVNGuGFdg8h72RUt55pvoB7dEqN3cp4VetN9FzUIQYWpTodXLHzQeJQvHsuCnL/YgtcZtSgyntqIeATqvOWOI4T/3+e7PlJRQBFi1BqhjB82nxbwEQzy5k83q9b5KJkaBrdNK0nkfdJvu8aK8RB4ylCU82RwaM6xW+QSlEbfykWLCwYCK3tdah40HNCFCiO5Qa1RvgkQQsYPq8kqjsZE44Apd4JqmcVU28qNHcORwqU6qNBh/0SEktWHjsO9eedA1+iF+WHGhHPlkuJEddEtYH1VbVbY7kqAs2/gd9U9aKvseND7/cTriYXlXuQPlYCHfHzmprPR"
-// };
-
 let clientId="";
 let clientKey="";
 
