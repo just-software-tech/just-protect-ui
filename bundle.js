@@ -745,7 +745,7 @@ let clientId="";
 let clientKey="";
 
 const url = "https://us-central1-just-software.cloudfunctions.net/just-protect/request"
-const baseurl = "http://localhost:8080/"
+const baseurl = "https://just-software-tech.github.io/just-protect-ui/"
 
 const start = async () => {
     
