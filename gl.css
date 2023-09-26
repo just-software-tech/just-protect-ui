@@ -1,0 +1,50 @@
+#nobot div.gl div {
+    font-family: "Font Awesome 6 Brands";
+}#nobot div.gl div span:nth-child(1){
+background-color: #0000FF;
+    color:#FFFFFF;
+    }#nobot div.gl div span:nth-child(1):before{
+    content: '\f17a';
+}
+#nobot div.gl div span:nth-child(2){
+background-color: #FF0000;
+    color:#FFFFFF;
+    }#nobot div.gl div span:nth-child(2):before{
+    content: '\f1bc';
+}
+#nobot div.gl div span:nth-child(3){
+background-color: #008000;
+    color:#FFFFFF;
+    }#nobot div.gl div span:nth-child(3):before{
+    content: '\f266';
+}
+#nobot div.gl div span:nth-child(4){
+background-color: #800080;
+    color:#FFFFFF;
+    }#nobot div.gl div span:nth-child(4):before{
+    content: '\f099';
+}
+#nobot div.gl div span:nth-child(5){
+background-color: #000080;
+    color:#FFFFFF;
+    }#nobot div.gl div span:nth-child(5):before{
+    content: '\f167';
+}
+#nobot div.gl div span:nth-child(6){
+background-color: #808080;
+    color:#fff;
+    }#nobot div.gl div span:nth-child(6):before{
+    content: '\f16d';
+}
+#nobot div.gl div span:nth-child(7){
+background-color: #800000;
+    color:#FFFFFF;
+    }#nobot div.gl div span:nth-child(7):before{
+    content: '\f1a1';
+}
+#nobot div.gl div span:nth-child(8){
+background-color: #FFFF00;
+    color:#000;
+    }#nobot div.gl div span:nth-child(8):before{
+    content: '\f39e';
+}

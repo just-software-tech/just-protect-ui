@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+ <html>
+   <head>
+     <meta charset="utf-8" />
+     <title>Getting Started</title>
+     <!-- <link rel="stylesheet" href="main.css" />  -->
+     <script src="https://kit.fontawesome.com/792270d8d1.js" crossorigin="anonymous"></script>
+   </head>
+   <body>
+    <a href="index.html">auto start</a>
+    <div id="nobot" autostart="false"  data-call="nobotValue = val.val">       
+    </div>
+    <button onclick="console.log('start');nobot.start(document.getElementById('nobot'))">start nobot</button>
+    <button onclick="console.log(nobotValue)">show value</button>
+    <script src="bundle.js"></script>
+    <script>var nobotValue = "";</script>
+   </body>
+ </html>
